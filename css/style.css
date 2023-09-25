@@ -1,0 +1,30 @@
+body {
+    font-size: 18px;
+    width: 600px;
+    border: 2px solid wheat;
+    text-align: center;
+    display: table;
+    margin: auto;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+
+}
+ul{
+    list-style-type: none;
+    text-decoration: underline cyan;
+}
+a:link { text-decoration:none;
+}
+
+a {
+    color: black;
+    text-decoration: underline 0.15em rgba(0, 0, 0, 0);
+  transition: text-decoration-color 300ms;
+  background-color: antiquewhite;
+  background-size: cover;
+}
+a:hover {  
+    text-decoration: underline;
+    transition: 150ms;
+    color: pink;
+}
