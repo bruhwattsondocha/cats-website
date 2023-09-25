@@ -1,13 +1,12 @@
 body {
     font-size: 18px;
-    width: 600px;
-    border: 2px solid wheat;
+    width: 600px;   
     text-align: center;
     display: table;
     margin: auto;
     font-family: 'Oswald', sans-serif;
     font-size: 25px;
-
+    background-color: peachpuff
 }
 ul{
     list-style-type: none;
@@ -27,4 +26,15 @@ a:hover {
     text-decoration: underline;
     transition: 150ms;
     color: pink;
+}
+.main-info {
+    width: 600px;
+    border: 2px solid wheat;
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+}
+.cat-img {
+    border: 5px solid pink;
+    width: 550px;
 }
