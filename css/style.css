@@ -11,10 +11,10 @@ body {
 ul{
     list-style-type: none;
     text-decoration: underline cyan;
+    margin-right: 30px;
 }
 a:link { text-decoration:none;
 }
-
 a {
     color: black;
     text-decoration: underline 0.15em rgba(0, 0, 0, 0);
@@ -38,3 +38,4 @@ a:hover {
     border: 5px solid pink;
     width: 550px;
 }
+
