@@ -19,20 +19,20 @@ a {
     color: black;
     text-decoration: underline 0.15em rgba(0, 0, 0, 0);
   transition: text-decoration-color 300ms;
-  background-color: antiquewhite;
+  background-color: rgba(250, 235, 215, 0.199);
   background-size: cover;
 }
 a:hover {  
     text-decoration: underline;
     transition: 150ms;
-    color: pink;
+    background-color: rgba(255, 228, 154, 0.836);
 }
 .main-info {
     width: 600px;
-    border: 2px solid wheat;
     padding: 25px;
     margin: 20px;
-    background-color: antiquewhite;
+    background-color: 
+    rgba(46, 32, 14, 0.158);
 }
 .cat-img {
     border: 5px solid pink;
